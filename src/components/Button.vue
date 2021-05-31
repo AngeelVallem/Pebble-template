@@ -1,5 +1,7 @@
 <template>
-    <button :style="{ background: color, margin: m , color : textColor}">{{ text }}</button>
+  <button :style="{ background: color, margin: m, color: textColor }">
+    {{ text }}
+  </button>
 </template>
 
 <script>
@@ -12,10 +14,10 @@ export default {
       type: String,
       default: "1rem",
     },
-    textColor : {
-        type: String,
-        default: '#000'
-    }
+    textColor: {
+      type: String,
+      default: "#000",
+    },
   },
 };
 </script>
@@ -30,7 +32,7 @@ button {
   cursor: pointer;
   text-decoration: none;
   font-size: 15px;
-  font-family: 'Nunito', sans-serif;
+  font-family: "Nunito", sans-serif;
   font-size: large;
   padding: 1rem;
 

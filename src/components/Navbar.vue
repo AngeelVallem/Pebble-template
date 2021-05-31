@@ -23,6 +23,7 @@ name : 'Navbar'
 <style lang="scss" scoped>
 #nav {
    position: fixed;
+   z-index: 999;
   top: 0;
   width: 100%;
   display: flex;

@@ -120,6 +120,7 @@ export default {
     }
 
     img {
+      z-index: 1;
       display: none;
       max-width: 100%;
       height: auto;
@@ -197,6 +198,7 @@ export default {
       justify-content: space-between;
       align-items: center;
       padding: 0rem 4rem;
+      font-size: 1.5rem;
     }
   }
 }
