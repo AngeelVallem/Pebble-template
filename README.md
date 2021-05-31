@@ -15,6 +15,4 @@ npm run serve or yarn serve
 npm run build or yarn build
 ```
 
-**Landing page template with crud using vue.js**
-
-[Design inspired by](https://pebblenaturals.com/)
+[Design inspired by pebblenaturals](https://pebblenaturals.com/)
