@@ -1,19 +1,20 @@
-# adoption-house
+# app to adopt pets
 
 ## Project setup
 ```
-npm install
+npm install or yarn install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run serve or yarn serve
 ```
 
 ### Compiles and minifies for production
 ```
-npm run build
+npm run build or yarn build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+**Landing page template with crud using vue.js**
+
+[Design inspired by](https://pebblenaturals.com/)
