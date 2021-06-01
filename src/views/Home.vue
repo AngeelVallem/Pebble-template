@@ -3,12 +3,16 @@
     <section class="info-home">
       <div class="info">
         <h1>Find your new best friend</h1>
-        <Button
+        <router-link 
+        to="/adopt"
+        class="homeb"
+        >
+          <Button
           text="ADOPT NOW"
           color="#f6b8a9"
           textColor="#0F333C"
-          m="1rem auto"
         />
+        </router-link>
       </div>
     </section>
     <section class="seenin">
@@ -104,6 +108,11 @@ export default {
       margin: 5rem auto;
       display: flex;
       flex-direction: column;
+      .homeb{
+        display: flex;
+        justify-content: center;
+        text-decoration: none;
+      }
     }
   }
   .seenin {

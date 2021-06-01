@@ -8,7 +8,7 @@
     </div>
     <div class="flex_Item_Fill"></div>
     <div class="right-nav">
-      <router-link class="nav-link" to="/about"> ADOPT NOW </router-link>
+      <router-link class="nav-link" to="/adopt"> ADOPT NOW </router-link>
       <router-link class="nav-link" to="/about"> ABOUT US </router-link>
     </div>
   </div>  
