@@ -63,7 +63,8 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
+
+<style lang='scss'>
 .footer-top {
   display: none;
   background-image: url("../assets/footer-top.png");
@@ -104,7 +105,7 @@ export default {
         border: 1px solid #dbe0e2;
         border: none;
         padding: 12px 14px;
-        color: #0E333C;
+        color: #0e333c;
         background: #fff;
         font-family: Apercu Pro;
         font-style: normal;
@@ -113,8 +114,8 @@ export default {
         line-height: 28px;
         resize: none;
 
-        &:focus-visible{
-          outline: 2px solid #0E333C;
+        &:focus-visible {
+          outline: 2px solid #0e333c;
         }
       }
     }
@@ -135,7 +136,7 @@ export default {
     display: flex;
     flex-direction: column;
     padding-bottom: 4rem;
-    padding: 0rem 4rem  ;
+    padding: 0rem 4rem;
     .footer-heading {
       display: flex;
       flex-direction: column;

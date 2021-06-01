@@ -17,7 +17,7 @@ export default {
 </script>
 
 
-<style lang="scss">
+<style>
 @import url("https://fonts.googleapis.com/css2?family=Mate+SC&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600&display=swap');
